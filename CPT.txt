@@ -1,0 +1,4 @@
+You will upload your files for the Create Performance Task here.
+
+Make sure that you upload ALL NECESSARY FILES.  Don't forget images (if you are making use of images),
+secondary html files, css files and javascript files.
